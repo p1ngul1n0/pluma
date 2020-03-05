@@ -1,4 +1,5 @@
 # Pluma
+![](https://github.com/sampzzz/pluma/blob/master/gifs/init.gif "Interface inicial")
 Ferramenta para análise de aplicações Web.
 
 ## Módulos
@@ -23,5 +24,3 @@ Ferramenta para análise de aplicações Web.
 ## Uso
 Instale as bibliotecas necessárias para execução
   - **pip3 install -r requirements.txt**
-  
-![](https://github.com/sampzzz/pluma/blob/master/gifs/init.gif "Interface inicial")
