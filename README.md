@@ -18,4 +18,4 @@ Ferramenta para análise de aplicações Web.
 - ENUM
   - Realiza enumeração de diretórios através de arquivo 'diretorios.txt'.
 - SPIDER
-  - Realiza spidering de página.
+  - Realiza crawling de página.
