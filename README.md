@@ -24,4 +24,4 @@ Ferramenta para análise de aplicações Web.
 Instale as bibliotecas necessárias para execução
   - **pip3 install -r requirements.txt**
   
-
+![](https://github.com/sampzzz/pluma/gifs/init.gif "Interface inicial")
