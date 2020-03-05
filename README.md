@@ -19,3 +19,7 @@ Ferramenta para análise de aplicações Web.
   - Realiza enumeração de diretórios através de arquivo 'diretorios.txt'.
 - SPIDER
   - Realiza crawling de página.
+
+## Uso
+Instale as bibliotecas necessárias para execução
+  pip3 install -r requirements
