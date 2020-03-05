@@ -1,5 +1,6 @@
 # Pluma
 ![](https://github.com/sampzzz/pluma/blob/master/gifs/init.gif "Interface inicial")
+
 Ferramenta para análise de aplicações Web.
 
 ## Módulos
