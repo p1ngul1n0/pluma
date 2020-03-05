@@ -1,7 +1,7 @@
 # Pluma
 Ferramenta para análise de aplicações Web.
 
-###### Módulos
+## Módulos
 - INFO
   - Apresenta informações do host através de consulta whois,
   - Exibe caso detecte no conteúdo da página, links, palavras chave para dados sensíveis, emails e comentários.
