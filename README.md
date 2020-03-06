@@ -3,25 +3,24 @@
 
 ### Ferramenta para análise de aplicações Web.
 
-## Módulos
+## Features
 - INFO
-  - Apresenta informações do host através de consulta whois,
-  - Exibe caso detecte no conteúdo da página, links, palavras chave para dados sensíveis, emails e comentários.
-  - Exibe cabeçalhos de resposta HTTP.
+  - Whois lookup information about host;
+  - Search for links, keywords related to sensitive data, emails and code comments;
+  - Present HTTP response code and headers;
 - HEADERS
-  - Realiza análise de cabeçalhos de segurança existentes.
-  - Verifica a existência de informações técnicas em cabeçalhos de resposta.
+  - Verify the use of security headers and information about the Server version and framework;
 - COOKIES
-  - Verifica a existência de parâmetros 'Secure' e 'HttpOnly' em cookies.
+  - If cookies are detected, verify the use of Secure and HttpOnly flags;
 - METHODS
-  - Realiza envio de requisições utilizando diferentes métodos HTTP e a subsequente resposta para cada caso.
+  - Send HTTP request using different methods and show status code and reason for each case;
 - AUTOCOMPLETE
-  - Caso identifique campo de entrada de senha, verifica a existência do parâmetro 'autocomplete=off'.
+  - If any password input is detected, verify the use of 'autocomplete=off' parameter;
 - ENUM
-  - Realiza enumeração de diretórios através de arquivo 'diretorios.txt'.
+  - Enumerate directories of webpage,using 'diretorios.txt' text file;
 - SPIDER
-  - Realiza crawling de página.
+  - Spidering of webpage;
 
 ## Uso
-Instale as bibliotecas necessárias para execução
+To install the lybraries required
   - **pip3 install -r requirements.txt**
