@@ -1,5 +1,5 @@
 # Pluma
-![](https://github.com/sampzzz/src/blob/master/init.gif "Interface inicial")
+![](https://github.com/sampzzz/src/blob/master/main_menu.gif "Interface inicial")
 
 ### A tool to Web Application analysis.
 
@@ -23,4 +23,4 @@
 
 ## Installation
 To install the lybraries required
-  - **pip3 install -r requirements.txt**
+  - **pip3 install -r requirements.txt*
