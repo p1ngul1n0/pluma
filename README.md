@@ -1,5 +1,5 @@
 # Pluma
-![](https://github.com/sampzzz/pluma/blob/master/gifs/init.gif "Interface inicial")
+![](https://github.com/sampzzz/src/blob/master/init.gif "Interface inicial")
 
 ### A tool to Web Application analysis.
 
