@@ -1,7 +1,7 @@
 # Pluma
 ![](https://github.com/sampzzz/src/blob/master/main_menu.gif "Interface inicial")
 
-### A tool to Web Application analysis.
+### A tool for Web Application analysis.
 
 ## Features
 - INFO
@@ -22,5 +22,7 @@
   - Spidering of webpage;
 
 ## Installation
-To install the lybraries required
-  - **pip3 install -r requirements.txt*
+  Downloading it:
+    **git clone https://github.com/sampzzz/pluma/**
+  To install the required lybraries:
+  - **pip3 install -r requirements.txt**
