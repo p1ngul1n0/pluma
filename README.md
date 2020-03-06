@@ -22,7 +22,8 @@
   - Spidering of webpage;
 
 ## Installation
-  Downloading it:
-    **git clone https://github.com/sampzzz/pluma/**
+  Downloading it
+  - **git clone https://github.com/sampzzz/pluma/**
+   
   To install the required lybraries:
   - **pip3 install -r requirements.txt**
