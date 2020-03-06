@@ -21,6 +21,6 @@
 - SPIDER
   - Spidering of webpage;
 
-## Uso
+## Installation
 To install the lybraries required
   - **pip3 install -r requirements.txt**
