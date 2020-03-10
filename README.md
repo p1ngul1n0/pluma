@@ -25,5 +25,5 @@
   Downloading it
   - **git clone https://github.com/sampzzz/pluma/**
    
-  To install the required lybraries:
+  To install the required libraries:
   - **pip3 install -r requirements.txt**
