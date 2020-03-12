@@ -1,4 +1,4 @@
-# Pluma
+# Pluma :bird:
 ![](https://github.com/sampzzz/src/blob/master/main_menu.gif "Interface inicial")
 
 ### A tool for Web Application analysis.
