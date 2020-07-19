@@ -1,6 +1,6 @@
 <img alt="PLUMA logo" align="left" width="200" height="200" src="https://github.com/sampzzz/src/blob/master/pluma_icon.png"/>
 <h1>Pluma</h1>
-### A tool for Web Application analysis.</br></br></br></br>
+<h2> A tool for Web Application analysis.</h2></br></br></br></br>
 
 ![](https://github.com/sampzzz/src/blob/master/main_menu.gif "Interface inicial")
 
