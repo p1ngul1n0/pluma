@@ -28,3 +28,6 @@
    
   To install the required libraries:
   - **pip3 install -r requirements.txt**
+
+### Credits
+<a href="https://my.logomakr.com">Created my free logo at LogoMakr.com</a>
