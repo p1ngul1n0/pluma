@@ -1,7 +1,8 @@
-# Pluma :bird:
-![](https://github.com/sampzzz/src/blob/master/main_menu.gif "Interface inicial")
+<img alt="PLUMA logo" align="left" width="200" height="200" src="https://github.com/sampzzz/src/blob/master/pluma_icon.png"/>
+<h1>Pluma</h1>
+### A tool for Web Application analysis.</br></br></br></br>
 
-### A tool for Web Application analysis.
+![](https://github.com/sampzzz/src/blob/master/main_menu.gif "Interface inicial")
 
 ## Features
 - INFO
